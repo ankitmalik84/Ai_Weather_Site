@@ -6,7 +6,7 @@ Tired of the same old typing and tapping on your weather apps? Well, guess what?
 Imagine a weather app that listens to your voice commands and provides you with real-time weather updates for any location. With my Voice-Powered Weather App, you can effortlessly ask about the weather conditions anywhere in the world, just by speaking into your device. Whether you're planning a weekend getaway or simply curious about the weather in your hometown, this app has got you covered in style. ☀️❄️🌧️
 
 ## Voice-Enabled Weather Search
-Forget about typing or tapping – it's time for a hands-free experience! Simply say, "Hey app, what's the weather like in New York today?" and voilà, the app will respond with the latest weather details for the Big Apple. This isn't just convenient; it's a game-changer for accessibility, making weather updates accessible to everyone, including those with limited mobility. 🗣️🌎
+Forget about typing or tapping – it's time for a hands-free experience! Simply say, "Search weather of New York ?" and voilà, the app will respond with the latest weather details for the Big Apple. This isn't just convenient; it's a game-changer for accessibility, making weather updates accessible to everyone, including those with limited mobility. 🗣️🌎
 
 ## Dynamic Theme Switching
 But wait, there's more! My app doesn't stop at weather updates. It's got the magic to change its look and feel based on your voice commands. Say "Switch to light mode" to enjoy a clean, bright interface, or simply murmur "Switch to dark mode" for an immersive and cozy viewing experience, especially at night or in low-light environments. This app adapts to your preferences like your favorite pair of sneakers. 👟🌚
