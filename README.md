@@ -11,6 +11,14 @@ No more typing or tapping required. You can now simply say, "Hey app, what's the
 ## Dynamic Theme Switching
 But that's not all! My app goes beyond weather updates. It's equipped with the power to change its visual theme based on your voice commands. Say "Switch to light mode" to enjoy a clean, bright interface, or utter "Switch to dark mode" for a more immersive and comfortable viewing experience at night or in low-light environments. The app adapts to your preferences seamlessly.
 
+## Some Commands you can use
+
+- **Switch to dark mode**
+- **Switch to light mode**
+- **Search weather of delhi**
+- **Give me your brief intro**
+- **Tell me about your features**
+  
 ## Personal and Professional Benefits
 This project allowed me to showcase my expertise in voice recognition technology and user-centered design. By combining cutting-edge AI from Alan with a user-friendly interface, I've created an app that not only simplifies weather checking but also enhances the overall user experience. As a developer, I'm proud to have created a tool that promotes accessibility and convenience.
 
